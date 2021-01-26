@@ -36,4 +36,14 @@ Feel Free to share about your Memorable days with a short description and a pict
 ```sh
    npm start
    ```
-   
+# Snapshots
+
+![memoryBank](https://user-images.githubusercontent.com/67522406/105847252-5c9ea000-6003-11eb-9a88-20d66c9c0c74.png) 
+## Author
+
+### Payal Patra
+
+<a href="https://linkedin.com/in/payalpatra105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="payalpatra105" height="30" width="40" /></a>
+<a href="https://instagram.com/p_iconic_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="p_iconic_" height="30" width="40" /></a>
+
+
