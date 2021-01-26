@@ -30,13 +30,6 @@ Feel Free to share about your Memorable days with a short description and a pict
 
 ## STEP 4
 
-### Run -- npm install
-##### (Make sure You run this for both client as well as server side)
-```sh
-   npm install
-   ```
- ## STEP 5
-
 ### Run -- npm start
 ##### (Make sure You run this for both client as well as server side)  
 ```sh
