@@ -18,7 +18,7 @@ Feel Free to share about your Memorable days with a short description and a pict
 ## STEP 2
 
 ### Run -- Npm install
-##### (Make sure You run this in the root directory of the project folder)
+##### (Make sure You run this for both client as well as server side)
 
  ```sh
    npm install
@@ -31,7 +31,8 @@ Feel Free to share about your Memorable days with a short description and a pict
 ## STEP 4
 
 ### Run -- npm start
-##### (Make sure You run this for both client as well as server side)  
+##### (Make sure You run this for both client as well as server side) 
+
 ```sh
    npm start
    ```
