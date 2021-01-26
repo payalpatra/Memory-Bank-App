@@ -12,7 +12,7 @@ Feel Free to share about your Memorable days with a short description and a pict
 
 ### Clone this Repository
  ```sh
-   git clone https://github.com/payalpatra/Datastax-services-assistance-site.git
+   git clone https://github.com/payalpatra/Memory-Bank-App.git
    ```
 
 ## STEP 2
